@@ -1,1 +1,6 @@
-# go-simple-chat
+go mod init go-simple-chat
+
+
+
+
+
